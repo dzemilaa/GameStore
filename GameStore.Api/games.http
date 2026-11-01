@@ -1,29 +1,29 @@
-GET http://localhost:5178/games
+GET http://localhost:5159/games
 
 ###
-GET http://localhost:5178/games/1
+GET http://localhost:5159/games/3
 
 ###
-POST http://localhost:5178/games
+POST http://localhost:5159/games
 Content-Type: application/json
 
 {
-    "name" :"Super Mario",
-    "genreId":1,
-    "price":59.99,
-    "releaseDate": "2023-10-20"
+    "name": "TEST GAME",
+    "genreId": 1,
+    "price": 9.99,
+    "releaseDate": "1991-02-01"
 }
 
 ###
-PUT http://localhost:5178/games/1
+PUT http://localhost:5159/games/2
 Content-Type: application/json
 
 {
-    "name": "Street Fighter II",
-    "genre": "Fighting",
-    "price": 120.99,
-    "realaseDate": "1922-07-16"
+    "name": "Street Fighter II Turbo",
+    "genreId": 1,
+    "price": 19.99,
+    "releaseDate": "1991-02-01"
 }
 
 ###
-DELETE http://localhost:5178/games/1
+DELETE http://localhost:5159/games/3

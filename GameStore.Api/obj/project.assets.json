@@ -2394,11 +2394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dzemi\\Desktop\\GameStore.Api\\GameStore.Api.csproj",
+      "projectUniqueName": "C:\\Users\\dzemi\\Documents\\GitHub\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
       "projectName": "GameStore.Api",
-      "projectPath": "C:\\Users\\dzemi\\Desktop\\GameStore.Api\\GameStore.Api.csproj",
+      "projectPath": "C:\\Users\\dzemi\\Documents\\GitHub\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
       "packagesPath": "C:\\Users\\dzemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dzemi\\Desktop\\GameStore.Api\\obj\\",
+      "outputPath": "C:\\Users\\dzemi\\Documents\\GitHub\\GameStore\\GameStore.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
